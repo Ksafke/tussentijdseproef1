@@ -1,0 +1,10 @@
+/* altijd gebruiken om crossbrowser te werken */
+header,section,article,aside,hgroup{display:block;}
+
+header{
+    background: #f00;
+    width:500px;
+    height:150px;
+    float:left;
+}
+
